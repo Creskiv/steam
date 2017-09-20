@@ -222,3 +222,6 @@ ru:
       words_connector: ", "
       two_words_connector: " и "
       last_word_connector: " и "
+  attributes:
+    name: Имя
+    phone: Телефон
